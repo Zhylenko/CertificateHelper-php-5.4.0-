@@ -1,0 +1,22 @@
+{
+    "name": "zhylenko/certificatehelperold",
+    "description": "Getting info about certificate",
+    "version": "1.0",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "CertificateHelper\\": "src/CertificateHelper/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vladislav Zhylenko",
+            "email": "zhylenko.vlad@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
